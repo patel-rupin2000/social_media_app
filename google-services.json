@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604354314570",
+    "project_id": "unipro-dac65",
+    "storage_bucket": "unipro-dac65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604354314570:android:ab9bdfc562410de3d3c1b3",
+        "android_client_info": {
+          "package_name": "com.unipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604354314570-vt6v1icmj9b7tqu8vbsiu9tq3h05gg9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3-2VAUgDT96XfG-GzD-X6JwAXvYNByA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604354314570-vt6v1icmj9b7tqu8vbsiu9tq3h05gg9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
