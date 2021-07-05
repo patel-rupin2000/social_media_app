@@ -8,12 +8,7 @@ class Fire{
 
     constructor(){
         var FirebaseKeys={
-            apiKey: "AIzaSyCDTEI-MA71rMgk_9dsMbCPCp_B8BCi3IY",
-            authDomain: "unipro-dac65.firebaseapp.com",
-            projectId: "unipro-dac65",
-            storageBucket: "unipro-dac65.appspot.com",
-            messagingSenderId: "604354314570",
-            appId: "1:604354314570:web:fb64a8f6c04211a2d3c1b3"
+*************************************
         }
         if (!firebase.apps.length) {
             firebase.initializeApp(FirebaseKeys);
