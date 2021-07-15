@@ -16,7 +16,7 @@ For downloading expo-cli open commannd prompt and type:
 
 
  Download Zip or clone:
- <a>https://github.com/Btech-Projects/doot-react_native</a>
+ <a>https://github.com/patel-rupin2000/social_media_app</a>
 <h5>Edit Fire.js with your's firebase api keys</h5>
    open file location in a command prompt and run following commands:
          
